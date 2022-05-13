@@ -76,8 +76,8 @@ function App() {
     <div className="container App">
 
     <br /><br />
-    <h2>To Do List App (ReactJS)</h2>
-    <br /><br />
+    <h2>TODO LIST</h2>
+    <hr/>
 
     {updateData && updateData ? (
       <TodoItem 

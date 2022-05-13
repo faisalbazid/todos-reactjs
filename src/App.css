@@ -1,5 +1,5 @@
 body {
-  background-color: #333;
+  background-color: rgb(104, 104, 192);
   color: #fff;
 }
 
@@ -60,19 +60,7 @@ body {
   margin-right: 20px;
 }
 
-.taskNumber {
-  color: #999;
-  border: 1px solid #999;
-  border-radius: 50%;
-  width: 26px;
-  height: 26px;
-  display: flex;
-  text-align: center;
-  font-size: 14px;
-  margin-right: 8px;
-  align-items: center;
-  justify-content: center;
-}
+
 
 .taskText {
   flex: 1;
