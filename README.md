@@ -1,3 +1,3 @@
-### `react app todolist`
+## `react app todolist`
 
-![image](https://user-images.githubusercontent.com/91886338/168345477-b4fe7b49-6fac-41e0-bc55-e3ded1c39d81.png)
+![image](https://user-images.githubusercontent.com/91886338/168345583-d202b7e9-8a03-4faf-880a-d78612122c69.png)
